@@ -1,11 +1,5 @@
 # packet-sniffer-protocol-analyzer
 A Python-based packet sniffer built with Scapy that captures live network traffic and displays source IP, destination IP, protocol, and packet length for real-time packet analysis.
-# Packet Sniffer & Protocol Analyzer
-
-## Overview
-
-The Packet Sniffer & Protocol Analyzer is a Python-based cybersecurity project developed using Scapy. It captures live network packets and extracts important information such as source IP address, destination IP address, protocol type, and packet length. This project provides hands-on experience with network traffic analysis and packet inspection.
-
 ---
 
 ## Features
